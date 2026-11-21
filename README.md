@@ -184,5 +184,5 @@ Foram realizados testes e validações nas funcionalidades do backend e do aplic
 ## Demonstração
 Vídeo demonstrativo do aplicativo Namu:
 
-[Assistir ao vídeo de demonstração]( https://drive.google.com/file/d/1hQxFUkxnvIxMCkSt9SglaCNIxn0Hj-ru/view )
+[Assistir ao vídeo de demonstração](https://drive.google.com/file/d/1hQxFUkxnvIxMCkSt9SglaCNIxn0Hj-ru/view)
 ---
